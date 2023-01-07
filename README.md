@@ -35,7 +35,7 @@ Samsung SW *Pro Level*
 |Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
 |Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
