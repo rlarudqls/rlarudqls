@@ -19,8 +19,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kkb3431)](https://velog.io/@kkb3431)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
 
 🏅 Algorithm Gold Level. 
 
