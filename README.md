@@ -27,15 +27,9 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)  
 
-Programmers - Lv1  
 
 
 
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-||||
-||||
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
