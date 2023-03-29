@@ -23,7 +23,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Silver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)  
 
