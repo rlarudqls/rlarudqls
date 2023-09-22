@@ -76,7 +76,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🏅 Algorithm Silver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)  
-
+Programmers Lv.2
 
 
 
