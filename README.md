@@ -56,6 +56,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
