@@ -68,7 +68,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kkb3431)](https://velog.io/@kkb3431)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
-  [Diary](https://rlarudqls.github.io/Record.html)
+ [![Diary](https://img.shields.io/badge/Diary-Visit%20Now!-blue?style=for-the-badge)](https://rlarudqls.github.io/Record.html)
+
 
 🏅 Algorithm Silver Level. 
 
