@@ -5,7 +5,7 @@ Developers who create beneficial social values
 A developer who thinks, researches, creates, and connects to practical realization by web
 
 
-#### Main Stacks
+## Main Stacks
 
 ##### Back-End
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -25,7 +25,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 ![Maven](https://img.shields.io/badge/Maven-0769AD?style=flat-square&logo=Apache%20Maven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-007396?style=flat-square&logo=Java&logoColor=white)
 
-#### Sub Stacks
+## Sub Stacks
 
 ##### Back-End
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
