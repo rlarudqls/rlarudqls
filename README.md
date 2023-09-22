@@ -7,17 +7,28 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 #### Main Stacks
 
-![Back-End](https://img.shields.io/badge/Back--End-Java%2C%20Spring%20Framework%2C%20JSP-007396?style=flat-square)
-![Front-End](https://img.shields.io/badge/Front--End-HTML%2C%20CSS%2C%20JavaScript-E34F26?style=flat-square)
-![Database](https://img.shields.io/badge/Database-MySQL%2C%20AWS%20RDS-4479A1?style=flat-square)
-![Testing & Deployment](https://img.shields.io/badge/Testing%20%26%20Deployment-Maven%2C%20JUnit-0769AD?style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-0769AD?style=flat-square&logo=Apache%20Maven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-007396?style=flat-square&logo=Java&logoColor=white)
 
 #### Sub Stacks
 
-![Back-End](https://img.shields.io/badge/Back--End-C%2C%20MyBatis-007396?style=flat-square)
-![Front-End](https://img.shields.io/badge/Front--End-Bootstrap%2C%20JavaScript%2C%20Vue.js-E34F26?style=flat-square)
-![Database](https://img.shields.io/badge/Database-MariaDB%2C%20Oracle-4479A1?style=flat-square)
-![Testing & Deployment](https://img.shields.io/badge/Testing%20%26%20Deployment-Gradle%2C%20Docker-0769AD?style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=Apache%20MyBatis&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
 
 #### Main Tools
 
