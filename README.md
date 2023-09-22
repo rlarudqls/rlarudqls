@@ -17,12 +17,33 @@ A developer who thinks, researches, creates, and connects to practical realizati
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-0769AD?style=flat-square&logo=Apache%20Maven&logoColor=white) |
 | ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-007396?style=flat-square&logo=Java&logoColor=white) |
 |                                   |                                 |
-| **Sub Stacks**                    | **Sub Tools**                   |
-| ![Spring Security](https://img.shields.io/badge/Spring%20Security-brightgreen) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) | ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white) |
-| ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=Apache%20MyBatis&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white) |
-|                                   | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) |
 
+## Sub Stacks
+
+| **Back-End**                     | **Front-End**                   |
+|-----------------------------------|---------------------------------|
+| ![Spring Security](https://img.shields.io/badge/Spring%20Security-brightgreen) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) |
+| ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=Apache%20MyBatis&logoColor=white) |                                   |
+|                                   |                                 |
+| **Database**                      | **Testing & Deployment**        |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) |
+|                                   |                                 |
+
+#### Main Tools
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-181717?style=flat-square&logo=GIT&logoColor=white)
+
+#### Sub Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
