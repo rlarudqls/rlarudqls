@@ -72,5 +72,5 @@ Programmers Lv.2
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.
-Please understand.
+저는 신입 웹 개발자로서 항상 배우고 성장하는 것을 즐깁니다. 끊임없는 열정과 학습으로 혁신을 추구하며, 훌륭한 프로젝트에 기여하고자 합니다. 협업을 통해 함께 성장하고, 새로운 기술과 아이디어에 열린 마음으로 접근합니다. 더 나은 웹 개발자로 발전하며, 함께 일하고 싶은 팀과 프로젝트를 찾고 있습니다. 함께 일하면 더 큰 성취를 이룰 수 있다고 믿습니다. 감사합니다!
+
