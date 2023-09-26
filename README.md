@@ -1,5 +1,20 @@
-### Hi Welcome, i'm Kyeongbin KIM 👋
+### 안녕하세요. 근성있는 개발자 김경빈입니다. 👋
 
+## Contact & Channels
+
+---
+
+## 연락처
+
+✉️ kkb3431@gmail.com
+
+📞 010-6375-3431
+
+💻 1999. 09. 27
+
+- **Email** | **kkb3431@gmail.com**
+- **Github** | ****https://github.com/rlarudqls
+- **Blog** | ****https://velog.io/@kkb3431
 #### Web Developer / Data Engineering
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
