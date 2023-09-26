@@ -17,8 +17,8 @@
 💻 1999. 09. 27
 
 - **Email** | **kkb3431@gmail.com**
-- **Github** | ****https://github.com/rlarudqls
-- **Blog** | ****https://velog.io/@kkb3431
+- **Github** | https://github.com/rlarudqls
+- **Blog** | https://velog.io/@kkb3431
 
 ## Main Stacks
 
