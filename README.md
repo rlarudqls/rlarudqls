@@ -19,7 +19,7 @@
 - **Email** | **kkb3431@gmail.com**
 - **Github** | https://github.com/rlarudqls
 - **Blog** | https://velog.io/@kkb3431
-- **Notion** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
+- **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
 
 ## Main Stacks
 
