@@ -20,7 +20,6 @@
 - **Github** | ****https://github.com/rlarudqls
 - **Blog** | ****https://velog.io/@kkb3431
 
-
 ## Main Stacks
 
 | **Back-End**                     | **Front-End**                   |
@@ -57,30 +56,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
 
-
-
-
 🐱 About Me
 
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kkb3431)](https://velog.io/@kkb3431)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kkb3431)](https://velog.io/@kkb3431)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
 [![Diary](https://img.shields.io/badge/Diary-blue?style=for-the-badge)](https://rlarudqls.github.io/Record.html)
 
+🏅 Algorithm Silver Level.
 
-
-🏅 Algorithm Silver Level. 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)
 Programmers Lv.2
-
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
+There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.
 Please understand.
