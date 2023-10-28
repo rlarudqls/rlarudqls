@@ -22,39 +22,6 @@
 - **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.table-container {
-    display: flex;
-    justify-content: space-between;
-}
-.table {
-    width: 45%;
-}
-</style>
-</head>
-<body>
-
-<div class="table-container">
-    <div class="table">
-        <h2>Main Stacks</h2>
-        <table>
-            <!-- 첫 번째 표 내용 -->
-        </table>
-    </div>
-    <div class="table">
-        <h2>Sub Stacks</h2>
-        <table>
-            <!-- 두 번째 표 내용 -->
-        </table>
-    </div>
-</div>
-
-</body>
-</html>
-
 
 ## Main Stacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sub Stacks
 
