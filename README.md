@@ -22,7 +22,7 @@
 - **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
 
 
-## Main Stacks
+## Main Stacks                                                         ## Sub Stacks
 
 | **Back-End**                     | **Front-End**                   |
 |-----------------------------------|---------------------------------|
