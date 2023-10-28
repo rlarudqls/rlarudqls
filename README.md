@@ -21,25 +21,11 @@
 - **Blog** | https://velog.io/@kkb3431
 - **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
 
-| **Main Stacks**                | **Sub Stacks**                 |
-|--------------------------------|--------------------------------|
-| **Back-End**                   | **Back-End**                   |
-| ![Java](JavaLogoURL)           | ![Spring Security](SpringSecurityLogoURL) |
-| ![Spring Framework](SpringFrameworkLogoURL) | ![C](CLogoURL)                  |
-| ![JSP](JSPLogoURL)             | ![MyBatis](MyBatisLogoURL)     |
-| **Database**                    | **Database**                    |
-| ![MySQL](MySQLLogoURL)         | ![MariaDB](MariaDBLogoURL)     |
-| ![AWS RDS](AWSRDSLogoURL)       | ![Oracle](OracleLogoURL)       |
-| **Front-End**                  | **Testing & Deployment**        |
-| ![HTML](HTMLLogoURL)           | ![Maven](MavenLogoURL)         |
-| ![CSS](CSSLogoURL)             | ![JUnit](JUnitLogoURL)         |
-| ![JavaScript](JavaScriptLogoURL) | ![Gradle](GradleLogoURL)     |
 
 
 
 
-
-## Main Stacks                                                         ## Sub Stacks
+## Main Stacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## Sub Stacks
 
 | **Back-End**                     | **Front-End**                   |
 |-----------------------------------|---------------------------------|
