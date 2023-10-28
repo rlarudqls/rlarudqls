@@ -22,6 +22,9 @@
 - **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
 
 
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 .table-container {
     display: flex;
@@ -48,6 +51,9 @@
         </table>
     </div>
 </div>
+
+</body>
+</html>
 
 
 ## Main Stacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sub Stacks
