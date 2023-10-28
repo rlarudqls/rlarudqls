@@ -68,8 +68,6 @@
 
 🏅 Algorithm Silver Level. & Programmers Lv.2
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
