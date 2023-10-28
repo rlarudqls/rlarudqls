@@ -20,7 +20,7 @@
 - **Github** | https://github.com/rlarudqls
 - **Blog** | https://velog.io/@kkb3431
 - **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
-
+- **Bean's Mall** | http://3.39.110.53:8080/
 
 
 ## Main Stacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sub Stacks
