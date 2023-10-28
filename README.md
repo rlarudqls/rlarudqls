@@ -25,7 +25,7 @@
 
 ## Main Stacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sub Stacks
 
-| **Back-End**                     | **Front-End**                   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ㅎㅎ|
+| **Back-End**                     | **Front-End**                   |
 |-----------------------------------|---------------------------------|
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
 | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
