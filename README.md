@@ -25,7 +25,7 @@
 
 ## Main Stacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sub Stacks
 
-| **Back-End**                     | **Front-End**                   |
+| **Back-End**                     | **Front-End**                   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ㅎㅎ|
 |-----------------------------------|---------------------------------|
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
 | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
@@ -43,7 +43,7 @@
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-## Sub Stacks
+
 
 
 
@@ -56,7 +56,6 @@
 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) |
 | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) |
 
-#### Sub Tools
 
 
 
