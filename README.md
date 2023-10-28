@@ -66,8 +66,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
 [![Diary](https://img.shields.io/badge/Diary-blue?style=for-the-badge)](https://rlarudqls.github.io/Record.html)
 
-🏅 Algorithm Silver Level. & Programmers Lv.2
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
