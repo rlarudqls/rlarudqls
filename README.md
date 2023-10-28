@@ -27,14 +27,13 @@
 
 | **Back-End**                     | **Front-End**                   |
 |-----------------------------------|---------------------------------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ㅇㅇㅇㅇ
 | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
 | ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
 | **Database**                      | **Testing & Deployment**        |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-0769AD?style=flat-square&logo=Apache%20Maven&logoColor=white) |
 | ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-007396?style=flat-square&logo=Java&logoColor=white) |
 
-ㅊㅍㅊㅊㅊㅍㅊㅍㅊㅍㅊㅍㅊㅍ
 #### Main Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sub Tools
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
