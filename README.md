@@ -27,7 +27,7 @@
 
 | **Back-End**                     | **Front-End**                   | **Back-End**                     | **Front-End**                   | **Back-End**                     |
 |-----------------------------------|---------------------------------|-----------------------------------|---------------------------------|-----------------------------------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![Spring Security](https://img.shields.io/badge/Spring%20Security-brightgreen) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) |
 | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) |
 | ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) | ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) | ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white) |
 | **Database**                      | **Testing & Deployment**        | **Database**                      | **Testing & Deployment**        | **Database**                      |
@@ -49,7 +49,7 @@
 
 | **Back-End**                     | **Front-End**                   |
 |-----------------------------------|---------------------------------|
-| ![Spring Security](https://img.shields.io/badge/Spring%20Security-brightgreen) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) |
+|  |
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) |
 | ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=Apache%20MyBatis&logoColor=white) |                                   |
 | **Database**                      | **Testing & Deployment**        |
