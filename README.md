@@ -20,7 +20,7 @@
 - **Github** | https://github.com/rlarudqls
 - **Blog** | https://velog.io/@kkb3431
 - **Notion Resume** | https://bristle-house-c2d.notion.site/fbdf277b33984ffba1046be4320c2923?pvs=4
-- **Bean's Mall** | http://3.39.110.53:8080/
+- **Bean's Mall Project** | http://3.39.110.53:8080/
 - **Resume** |  http://3.39.110.53:8080/resources/img/%EA%B9%80%EA%B2%BD%EB%B9%88%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf
 
 
